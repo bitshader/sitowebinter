@@ -1,0 +1,66 @@
+html, body{
+    margin: .5cm;
+    
+}
+
+.back{     /*class*/
+    
+    background-color: black;
+}
+
+.background{
+    background-image: url("inter.png");
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.testo{
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    
+    
+}
+
+table,td,th{
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+}
+
+th{
+    color: rgba(70, 70, 255, 0.836);
+}
+
+.tabella{
+    align-items: center;
+    border-collapse: collapse;
+    width: 50%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titolo{  /*id*/
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+
+ 
+
+
+.photo{
+    border-radius: 8px;
+    width:400px;
+    height:200px;
+   
+}
+
+.link{
+    color:yellow;
+}
